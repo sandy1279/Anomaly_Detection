@@ -72,7 +72,7 @@ weighted avg       0.88      0.86      0.86     31986
 ## Usage
 Run the script in a Python environment:
 ```bash
-python intrusion_detection.py
+python notebook.py
 ```
 Modify hyperparameters and dataset paths as needed.
 
